@@ -1,0 +1,5 @@
+mkdir -p foo/dummy                                                                                                                               
+mkdir foo/empty                                                                                                                                  
+touch foo/dummy/file1.txt                                                                                                                        
+touch foo/dummy/file2.txt                                                                                                                        
+echo "Me encanta la bash!!" >> foo/dummy/file1.txt
